@@ -1,10 +1,10 @@
-#include <stdio.hd>
+#include <stdio.h>
 #include <unistd.h>
 
 /**
- * main - A c program that prints a line to a standard error
+ * main - A program that prints a new line, to the standard error
  *
- * Return: ALWAYS 1 (Success)
+ * Return: Always 1 (Success)
  */
 int main(void)
 {
